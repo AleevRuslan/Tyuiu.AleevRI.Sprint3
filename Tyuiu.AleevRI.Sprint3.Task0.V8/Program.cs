@@ -24,6 +24,7 @@ namespace Tyuiu.AleevRI.Sprint3.Task0.V8
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу используя цикл for, которая вычисляет произведение   *");
             Console.WriteLine("* ряда по формуле, при a = 0,25                                           *");
+            Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
