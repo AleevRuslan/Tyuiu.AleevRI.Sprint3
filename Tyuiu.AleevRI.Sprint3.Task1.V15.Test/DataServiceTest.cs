@@ -18,6 +18,7 @@ namespace Tyuiu.AleevRI.Sprint3.Task1.V15.Test
 
             double res = ds.GetMultiplySeries(value, startValue, stopValue);
             double wait = 208845;
+
             Assert.AreEqual(wait, res);
         }
     }
