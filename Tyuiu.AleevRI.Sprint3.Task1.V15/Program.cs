@@ -24,6 +24,7 @@ namespace Tyuiu.AleevRI.Sprint3.Task1.V15
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу используя цикл while, которая вычисляет произведение *");
             Console.WriteLine("* ряда по формуле, при х=2                                                *");
+            Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
