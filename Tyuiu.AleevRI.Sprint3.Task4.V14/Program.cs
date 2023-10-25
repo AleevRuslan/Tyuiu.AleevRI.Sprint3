@@ -16,7 +16,7 @@ namespace Tyuiu.AleevRI.Sprint3.Task4.V14
             Console.Title = "Спринт #3 | Выполнил: Алеев Р. И. | АСОиУБ-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Алгоритмы циклической структуры                                   *");
+            Console.WriteLine("* Тема: Использование операторов continue и break в циклах                *");
             Console.WriteLine("* Задание #3.4                                                            *");
             Console.WriteLine("* Вариант #14                                                             *");
             Console.WriteLine("* Выполнил: Алеев Руслан Ильнурович | АСОиУБ-23-1                         *");
