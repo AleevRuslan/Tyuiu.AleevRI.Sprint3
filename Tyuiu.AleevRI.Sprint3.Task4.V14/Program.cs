@@ -40,7 +40,7 @@ namespace Tyuiu.AleevRI.Sprint3.Task4.V14
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine("Сумма ряда = " + ds.Calculate(startValue, stopValue));
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
